@@ -31,6 +31,11 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
+   <darktable:colorlabels>
+    <rdf:Seq>
+     <rdf:li>0</rdf:li>
+    </rdf:Seq>
+   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
