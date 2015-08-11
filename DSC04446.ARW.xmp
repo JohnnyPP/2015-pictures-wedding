@@ -6,7 +6,7 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-   xmp:Rating="1"
+   xmp:Rating="0"
    xmpMM:DerivedFrom="DSC04446.ARW"
    exif:GPSLongitude="19,26.822500E"
    exif:GPSLatitude="51,3.674183N"
@@ -111,7 +111,7 @@
      <rdf:li>0000000000000000000000000000c842000080bf00000000</rdf:li>
      <rdf:li>gz09eJxjYICAjLMzbUH07xW8dqmWL20YVyfbH3pcZs/A0ADFAw7sIXjQuAcdDEr3sQIxMxQzIWFGqDyIBgD9Tw7u</rdf:li>
      <rdf:li>d0cccc3d0000000000000000</rdf:li>
-     <rdf:li>80994940c50ac83d258b363e68816b3f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000001000000</rdf:li>
+     <rdf:li>0000000000000000000000000000803f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
