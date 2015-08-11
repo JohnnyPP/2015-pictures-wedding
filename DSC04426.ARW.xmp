@@ -15,23 +15,26 @@
    darktable:auto_presets_applied="1">
    <darktable:mask_id>
     <rdf:Seq>
-     <rdf:li>1439245513</rdf:li>
      <rdf:li>1439245512</rdf:li>
      <rdf:li>1439245574</rdf:li>
+     <rdf:li>1439313607</rdf:li>
+     <rdf:li>1439313605</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
+     <rdf:li>32</rdf:li>
     </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
     <rdf:Seq>
-     <rdf:li>grp sharpen  </rdf:li>
      <rdf:li>circle #1</rdf:li>
      <rdf:li>circle #3</rdf:li>
+     <rdf:li>grp sharpen  </rdf:li>
+     <rdf:li>ellipse #3</rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
@@ -39,26 +42,30 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:mask_version>
    <darktable:mask>
     <rdf:Seq>
-     <rdf:li>c824c955c924c955030000000000803f0625c955c924c9550b0000000000803f</rdf:li>
      <rdf:li>b278bb3e4caeb73e423ff53c768b9a3c</rdf:li>
      <rdf:li>5822b33e6f7cc63ef36caf3c7eb6843c</rdf:li>
+     <rdf:li>c52eca55c72eca55030000000000803f</rdf:li>
+     <rdf:li>a233bf3e5aa1b33eab34453c3798c03c0000b4420ad7a33b</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
     <rdf:Seq>
-     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
     <rdf:Seq>
-     <rdf:li>157f000000000000</rdf:li>
      <rdf:li>0000000000000000</rdf:li>
+     <rdf:li>0000000000000000</rdf:li>
+     <rdf:li>6a7f000000000000</rdf:li>
      <rdf:li>0000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
@@ -134,7 +141,7 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz10eJxjZmBgkGAAgRNOIPKkyslQBoKgwR6CRxYfABiCGxE=</rdf:li>
+     <rdf:li>gz10eJxjZmBgkGAAgRNOIPK43qlQBoKgwR6CRxYfACJyGxo=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
